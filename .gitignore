@@ -1,0 +1,10 @@
+
+.idea/
+.DS_Store
+*.min.js
+*.swp
+
+client/.sass-cache/
+client/.tmp/
+client/bower_components/
+client/node_modules/
